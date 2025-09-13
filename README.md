@@ -22,7 +22,7 @@ The goal was to translate the architectural description from the original paper 
 *This result demonstrates a successful implementation of the core LeNet-5 architecture. The variance from the paper's result provides an interesting point of analysis on historical vs. modern training techniques.*
 
 ## How to Run
-1. Open the Notebook: link
+1. Open the Notebook: [link](https://colab.research.google.com/github/TabithaSona/LeNet5C/blob/main/LeNet5.ipynb)
 2. Run the notebook
 
 ## References
